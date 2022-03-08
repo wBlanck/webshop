@@ -43,34 +43,34 @@ export const categories = [
 export const popularProducts = [
   {
     id: 1,
-    img: "https://d3o2e4jr3mxnm3.cloudfront.net/Mens-Jake-Guitar-Vintage-Crusher-Tee_68382_1_lg.png",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrOFfuYhZ9u_T8hxAkKYdS_H753qCyLjLN5Q&usqp=CAU",
   },
   {
     id: 2,
-    img: "https://cdn.shopify.com/s/files/1/0101/4832/products/Angela_Natural_Tee.png?v=1606780388",
+    img: "https://www.enails.eu/media/catalog/product/cache/1/small_image/350x472/9df78eab33525d08d6e5fb8d27136e95/j/e/jelly_bracelet_3_1.jpg",
   },
   {
     id: 3,
-    img: "https://www.prada.com/content/dam/pradanux_products/U/UCS/UCS319/1YOTF010O/UCS319_1YOT_F010O_S_182_SLF.png",
+    img: "https://www.enails.eu/media/catalog/product/cache/1/small_image/350x472/9df78eab33525d08d6e5fb8d27136e95/g/e/gelish-blooming-gel.jpg",
   },
   {
     id: 4,
-    img: "https://www.burdastyle.com/pub/media/catalog/product/cache/7bd3727382ce0a860b68816435d76e26/107/BUS-PAT-BURTE-1320516/1170x1470_BS_2016_05_132_front.png",
+    img: "https://www.isadora.com/globalassets/dam-product-images/nails/nail-polish/wonder-nail-polish/145-harmony-green/7317852401453.jpg?preset=s",
   },
   {
     id: 5,
-    img: "https://images.ctfassets.net/5gvckmvm9289/3BlDoZxSSjqAvv1jBJP7TH/65f9a95484117730ace42abf64e89572/Noissue-x-Creatsy-Tote-Bag-Mockup-Bundle-_4_-2.png",
+    img: "https://niccibeauty.se/wp-content/uploads/2021/04/No3_1400px-1000x1000.jpg",
   },
   {
     id: 6,
-    img: "https://d3o2e4jr3mxnm3.cloudfront.net/Rocket-Vintage-Chill-Cap_66374_1_lg.png",
+    img: "https://lashnbrowstore.se/wp-content/uploads/2019/03/elleebana-lash-lift-adhesive-squeese.png",
   },
   {
     id: 7,
-    img: "https://www.vintageindustries.nl/download_front/qympzk1762/2217_Arrow_Jacket_Forest.png",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMinV7UHbOoOn8z8ar7f5e1kl_X-eTYxRNiA&usqp=CAU",
   },
   {
     id: 8,
-    img: "https://www.pngarts.com/files/3/Women-Jacket-PNG-High-Quality-Image.png",
+    img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQEzNVhf7OyV0-dWj2Uam01iHEp_PwSHAgURw&usqp=CAU",
   },
 ];
