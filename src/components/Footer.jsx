@@ -10,6 +10,7 @@ import {
 
 const Container = styled.div`
   display: flex;
+  justify-content: center;
 `;
 const Left = styled.div`
   flex: 1;
@@ -118,8 +119,8 @@ const Footer = () => {
         <ContactItem>
           <FiMail style={{ marginRight: "10px" }} /> contact@blanx.com
         </ContactItem>
+        <Payment src="" />
       </Right>
-      <Payment src="" />
     </Container>
   );
 };
